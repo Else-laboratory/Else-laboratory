@@ -1,4 +1,4 @@
-<h1>Welcome to the Else-laboratory!</h1>
+<h2>Welcome to the Else-laboratory!</h2>
 
 I distribute data packs and resource packs that can be used in Minecraft.
 
